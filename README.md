@@ -6,3 +6,4 @@
 
 Демонстрация работы:
 
+![Демонстрация](https://gitlab.com/ISU_Applied_Computer_Science/5th-semester/mobile-development/Robot-class/-/raw/main/raw/demo.png?inline=false)
